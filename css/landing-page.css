@@ -177,6 +177,8 @@ p.copyright {
 }
 
 .screenshot {
-  height: 768px;
+  border-left: 1px #d8d8d8 solid;
+  border-right: 1px #d8d8d8 solid;
+  height: 764px;
   -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(85%, transparent), to(rgba(250, 250, 250, 0.5)));
 }
